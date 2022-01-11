@@ -296,3 +296,4 @@ class App {
 }
 
 const app = new App();
+console.log('new feature in branch');
